@@ -59,7 +59,7 @@ $npm profile set fullname nori pat marsupial
 ```
 npm will prompt for credentials, including a one-time-password if you have enabled two-factor authentication. npm will then  confirm that the change has occurred: 
 
-```
+```jirayu sankkeaw
 Set fullname to nori pat marsupial
 ```
 
